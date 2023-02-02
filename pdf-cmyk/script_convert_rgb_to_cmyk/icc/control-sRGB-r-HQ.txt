@@ -1,0 +1,3 @@
+Image_RGB	icc/sRGB_to_eciCMYK_v2-neutrals_in_K-r-HQ.icc	1	1	0
+Graphic_RGB	icc/sRGB_to_eciCMYK_v2-neutrals_in_K-r-HQ.icc	1	1	0
+Text_RGB	icc/sRGB_to_eciCMYK_v2-neutrals_in_K-r-HQ.icc	1	1	0
